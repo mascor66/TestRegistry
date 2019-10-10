@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRegistry", "TestRegistry\TestRegistry.csproj", "{D3704099-9094-41BA-921F-D0E9AAE1C3F7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTestRegistry", "SetupTestRegistry\SetupTestRegistry.vdproj", "{4BA76CA9-ED8A-4741-AD6E-A394264E8112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3704099-9094-41BA-921F-D0E9AAE1C3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3704099-9094-41BA-921F-D0E9AAE1C3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3704099-9094-41BA-921F-D0E9AAE1C3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3704099-9094-41BA-921F-D0E9AAE1C3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA76CA9-ED8A-4741-AD6E-A394264E8112}.Debug|Any CPU.ActiveCfg = Debug
+		{4BA76CA9-ED8A-4741-AD6E-A394264E8112}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3BA038-C16E-47FE-8D6B-6CCDF1783782}
+	EndGlobalSection
+EndGlobal
